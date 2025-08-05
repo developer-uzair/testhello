@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-  cout<<"Hello, From the Windows 10"<<endl;
+  cout<<"Hello, From the administration"<<endl;
 }
